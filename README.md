@@ -73,4 +73,32 @@ The dataset used to train the model was created manually using Photoshop and con
 
 ## Contributing
 
-This tool is currently closed-source, but feel free to reach out if you'd like to contribute ideas or improvements. The interface and tools are designed with extensibility in mind, so modifications are welcome for future iterations.
+Contributions are welcome! If you would like to improve this project, feel free to open a pull request or suggest features and bug fixes by raising an issue.
+
+### How to Contribute:
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/YourFeature`).
+3. Commit your changes (`git commit -m 'Add your feature'`).
+4. Push to the branch (`git push origin feature/YourFeature`).
+5. Open a Pull Request.
+
+Make sure to check out the issues and help improve the project!
+
+## License
+
+This project is licensed under the MIT License. You are free to:
+
+- **Use**: You can use this software for personal, educational, or commercial purposes.
+- **Modify**: You are allowed to modify and adapt the code to your needs.
+- **Distribute**: You can distribute the original or modified versions of this software.
+- **Sublicense**: You can include this software in larger works and sublicense it under your own terms.
+- **Contribute**: Contributions to improve this software are welcome!
+
+However, the following conditions must be met:
+
+- **Attribution**: You must give appropriate credit to the original author. Include the following credit notice in any distributed copies:
+Copyright © 2024 Yusuf Borak
+
+- **No Warranty**: This software is provided "as-is" without any warranty of any kind. The author is not liable for any damages resulting from the use of this software.
+
+Full terms of the MIT License can be found in the [LICENSE](LICENSE) file.
