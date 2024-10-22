@@ -65,7 +65,7 @@ Once defects are detected, the tool highlights them directly on the camera feed.
 
 The dataset used to train the model was created manually using Photoshop and contains common fabric defects.
 
-> **Note**: If you need access to the dataset, please send an email to [yusuf.borak420@gmail.com](mailto:yusuf.borak420@gmail.com).
+> **Note**: If you need access to the dataset, please send an email to [yusuf.borak@outlook.com.tr](mailto:yusuf.borak@outlook.com.tr).
 
 ## Contributing
 
