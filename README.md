@@ -42,12 +42,16 @@ Running the tool is simple thanks to its clear and interactive user interface. F
    ```
 3. The interface will guide you through the defect detection process, leveraging your camera for real-time analysis. No need for command-line arguments—the UI is self-explanatory and structured for ease of use.
 
+![Inspection Tool](assets/Inspection_Tool.png)
+
 ## Annotation Tool
 
 For those looking to create their own training data, the `AnnotTool.py` is designed to help you generate annotations in the required format.
 
 - **Supported Formats**: YOLO format is fully supported, while the Cascade format is currently a work in progress (WIP).
 - **How to Use**: Simply run the `AnnotTool.py` file and follow the on-screen instructions to annotate your images with ease.
+
+![Annotation Tool](assets/Annot_Tool.png)
 
 ```bash
 python AnnotTool.py
